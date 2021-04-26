@@ -2,6 +2,7 @@
 
 ### Ссылка на проект
 
+Данный проект размещен на Github Pages по адресу:
 [https://shvartem.github.io/russian-travel/]
 
 ### Обзор
