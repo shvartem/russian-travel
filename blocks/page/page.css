@@ -1,14 +1,11 @@
 .page {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  box-sizing: border-box;
+  min-width: 320px;
   background-color: #2a2c2f;
-  font-family: 'Inter', sans-serif;
+  color: white;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  color: white;
 }

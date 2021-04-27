@@ -1,0 +1,25 @@
+.content__section {
+  margin-bottom: 92px;
+}
+
+.content__section:first-of-type {
+  margin-top: 56px;
+}
+
+@media screen and (max-width: 1279px) {
+  .content__section:first-of-type {
+    margin-top: 48px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .content__section {
+    margin-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .content__section {
+    margin-bottom: 64px;
+  }
+}
