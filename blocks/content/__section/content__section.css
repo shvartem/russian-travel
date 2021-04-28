@@ -16,6 +16,10 @@
   .content__section {
     margin-bottom: 88px;
   }
+
+  .content__section:last-of-type {
+    margin-top: 2px;
+  }
 }
 
 @media screen and (max-width: 767px) {

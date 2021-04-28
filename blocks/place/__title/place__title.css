@@ -15,6 +15,7 @@
 
 @media screen and (max-width: 767px) {
   .place__title {
+    margin: 0 16px;
     font-size: 32px;
     line-height: 1.09;
   }

@@ -1,6 +1,4 @@
 .footer__link {
-  margin: 0;
-  margin-right: 18px;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -9,18 +7,9 @@
   color: #fff;
 }
 
-.footer__link:last-of-type {
-  margin-right: 0;
-}
-
 @media screen and (max-width: 767px) {
   .footer__link {
-    margin: 0 0 32px;
     font-size: 24px;
     line-height: 1;
-  }
-
-  .footer__link:last-of-type {
-    margin-bottom: 0;
   }
 }

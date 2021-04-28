@@ -9,20 +9,23 @@
 @media screen and (max-width: 1279px) {
   .cover {
     padding: 195px 232px;
-    width: calc(100% + 96px);
   }
 }
 
 @media screen and (max-width: 1023px) {
   .cover {
     padding: 115px 104px;
-    width: calc(100% + 48px);
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 560px) {
+  .cover {
+    padding: 42px 40px;
+  }
+}
+
+@media screen and (max-width: 425px) {
   .cover {
     padding: 33px 16px;
-    width: calc(100% + 32px);
   }
 }
