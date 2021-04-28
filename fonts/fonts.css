@@ -12,8 +12,8 @@
   font-style: normal;
   font-weight: bold;
   font-display: swap;
-  src: url('./inter/Inter-Black.woff2') format('woff2'),
-    url('./inter/Inter-Black.woff') format('woff');
+  src: url('./inter/Inter-Bold.woff2') format('woff2'),
+    url('./inter/Inter-Bold.woff') format('woff');
 }
 
 @font-face {
